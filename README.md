@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm continuously working on being a better engineer.<br>Currently I'm learning on better understanding data structures.<br>I'm looking forward to learn on AI/ML, LLMs.<br>Connect with me on LinkedIn(https://www.linkedin.com/in/shubtiwari/)
+I'm continuously working on becoming a better engineer.<br>Currently I'm learning on better understanding of data structures.<br>I'm looking forward to learn on AI/ML, LLMs.<br>Connect with me on LinkedIn(https://www.linkedin.com/in/shubtiwari/)
 
 
 ## 🌐 Socials:
